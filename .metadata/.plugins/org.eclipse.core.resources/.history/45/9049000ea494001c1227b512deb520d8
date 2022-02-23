@@ -1,0 +1,10 @@
+package segundoProjetoIMC;
+
+public class imcPrincipal {
+
+	public static void main(String[] args) {
+		System.out.println("Por favor digite seu peso");
+
+	}
+
+}

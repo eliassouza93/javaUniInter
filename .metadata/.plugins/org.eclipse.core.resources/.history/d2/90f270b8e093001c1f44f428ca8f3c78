@@ -1,0 +1,18 @@
+package javaOne;
+
+public class primeiroJava {
+
+	public static void main(String[] args) {
+		int idade=10;
+		float peso;
+		String nome ="Elias";
+		int tamanho = nome.length();
+		nome = "Super " + nome;
+		System.out.println("idade:" + idade);
+		
+		System.out.println("Ola, Mundo");
+		System.out.println("Meu primeiro programa em Java");
+
+	}
+
+}
