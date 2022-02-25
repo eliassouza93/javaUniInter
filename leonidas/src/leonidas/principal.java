@@ -22,7 +22,7 @@ public class principal {
 			palpite = teclado.nextInt();
 		}
 		System.out.println("Está correto!");
-
+		
 	}
 
 }
