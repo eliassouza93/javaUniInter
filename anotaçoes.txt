@@ -1,0 +1,9 @@
+Atributos: São as variáveis que descrevem o objeto.
+
+Métodos: São como funções que dizem o que cada objeto faz.
+
+----
+
+
+
+
