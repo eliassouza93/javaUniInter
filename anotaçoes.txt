@@ -2,8 +2,16 @@ Atributos: São as variáveis que descrevem o objeto.
 
 Métodos: São como funções que dizem o que cada objeto faz.
 
+Estado: Seria o valor de cada atributo que representa aquele objeto específico.
+
 ----
 
+Public: o elemento é público e pode ser acessado por qualquer outra classe sem restrições.
 
+Private: o elemento é privado e só pode ser acessado internamente na classe.
+
+Protected: o elemento é protegido e será acessado somente de dentro da própria classe, outras classes no mesmo pacote e também por classes filhas. A definição de classe filha será abordada em detalhes na aula de herança.
+
+Default: (sem nenhum modificador): o elemento, neste caso, é acessível por classes dentro do mesmo pacote.
 
 
