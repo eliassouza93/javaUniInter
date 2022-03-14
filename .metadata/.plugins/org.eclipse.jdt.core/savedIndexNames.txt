@@ -1,23 +1,2 @@
 INDEX VERSION 1.131+C:\Users\Elias\Documents\javaUniinter\.metadata\.plugins\org.eclipse.jdt.core
-1776025018.index
-2959449751.index
-1531288426.index
-1219361851.index
 1865797976.index
-880006153.index
-1108393166.index
-1027600823.index
-3308941311.index
-3975916272.index
-4001387661.index
-3020491684.index
-2134697950.index
-3335381290.index
-2886620695.index
-3586201951.index
-1678460375.index
-3282922174.index
-2730969833.index
-321039788.index
-3927496509.index
-1327474124.index
