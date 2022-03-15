@@ -2,9 +2,9 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="empresa.autor"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

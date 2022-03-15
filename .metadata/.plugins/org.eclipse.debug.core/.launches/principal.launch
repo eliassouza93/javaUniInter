@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/teste/src/empresa/Principal.java"/>
+        <listEntry value="/Notas32/src/empresa/Principal.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
@@ -9,5 +9,5 @@
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="empresa.Principal"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="teste"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Notas32"/>
 </launchConfiguration>
